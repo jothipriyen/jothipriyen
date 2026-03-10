@@ -93,13 +93,6 @@ Git • Linux • VS Code • Wireshark
 </p>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
 
 ---
 
