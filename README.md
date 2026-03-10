@@ -111,11 +111,3 @@ Git • Linux • VS Code • Wireshark
 - Linux for Cybersecurity  
 
 ---
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="#">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
